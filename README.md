@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola, soy estudiante de licenciatura en física con mencion en astronomía.
+
+![image](https://github.com/user-attachments/assets/329dd079-d578-467c-a565-f48fbb0968c2)
+
 
 <!--
 **Desodoran3/Desodoran3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
