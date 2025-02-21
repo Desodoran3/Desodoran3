@@ -1,7 +1,9 @@
-## Hola, soy estudiante de licenciatura en física con mencion en astronomía.
+## Hola, soy estudiante de licenciatura en física con mencion en astronomía/ I'm a physics undergraduate student with a major in astronomy.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/592b8d1f-139c-4981-8eaa-b941bc9b2545" width="400" height="400">
+</div>
 
-<img src="https://github.com/user-attachments/assets/592b8d1f-139c-4981-8eaa-b941bc9b2545" width="300" height="300">
 <!--
 **Desodoran3/Desodoran3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
